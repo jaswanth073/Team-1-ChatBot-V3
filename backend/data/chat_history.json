@@ -1,0 +1,616 @@
+{
+  "6c5bef59-c7e5-467b-8e7f-4041bbb74c1a": [
+    {
+      "id": "21cd87da-98af-40a5-ab7a-4db45f3d6756",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1771393998565
+        },
+        {
+          "id": "1771394009804",
+          "role": "user",
+          "content": "Male",
+          "timestamp": 1771394009804
+        },
+        {
+          "id": "1771394011761",
+          "role": "assistant",
+          "content": "Thank you for providing that information.\n\nTo continue, could you please tell me your age?",
+          "timestamp": 1771394011760
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-18T11:23:32.117938"
+    },
+    {
+      "id": "bed66a8f-98c6-4457-98a0-74b75ae8f356",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1771393998565
+        },
+        {
+          "id": "1771394009804",
+          "role": "user",
+          "content": "Male",
+          "timestamp": 1771394009804
+        },
+        {
+          "id": "1771394011761",
+          "role": "assistant",
+          "content": "Thank you for providing that information.\n\nTo continue, could you please tell me your age?",
+          "timestamp": 1771394011760
+        },
+        {
+          "id": "1771394018515",
+          "role": "user",
+          "content": "21",
+          "timestamp": 1771394018515
+        },
+        {
+          "id": "1771394019999",
+          "role": "assistant",
+          "content": "Thank you.\n\nWhat are your primary symptoms or the main reason you are seeking assistance today? Please describe them in as much detail as possible, including location and type of discomfort.",
+          "timestamp": 1771394019998
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-18T11:23:40.320353"
+    },
+    {
+      "id": "e384ab4a-7b9e-4d8f-bbac-ea398c86fbc5",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1771402858269
+        },
+        {
+          "id": "1771402867025",
+          "role": "user",
+          "content": "male",
+          "timestamp": 1771402867025
+        },
+        {
+          "id": "1771402868915",
+          "role": "assistant",
+          "content": "Thank you for providing your biological sex.\n\nTo continue, could you please tell me your age?",
+          "timestamp": 1771402868914
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-18T13:51:09.228087"
+    }
+  ],
+  "2c6aa856-cc4f-4383-8c53-fbbe839bd6c9": [
+    {
+      "id": "30673a66-6ea0-4fd2-aeae-c60713bea54f",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1771404006750
+        },
+        {
+          "id": "1771404049312",
+          "role": "user",
+          "content": "age 21 sex: male",
+          "timestamp": 1771404049312
+        },
+        {
+          "id": "1771404052149",
+          "role": "assistant",
+          "content": "Thank you for providing your age and biological sex. What are your primary symptoms today? Please describe them in as much detail as possible, including their location and appearance.",
+          "timestamp": 1771404052148
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-18T14:10:52.466125"
+    }
+  ],
+  "97e60a92-c9fc-428d-9784-04696d5f3c44": [
+    {
+      "id": "bdc15701-5bcb-4ad0-b5c0-edfe36d93599",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1771473485590
+        },
+        {
+          "id": "1771473505432",
+          "role": "user",
+          "content": "Age: 21 and Sex: Male",
+          "timestamp": 1771473505432
+        },
+        {
+          "id": "1771473507358",
+          "role": "assistant",
+          "content": "Thank you for providing your age and biological sex. To help me understand your situation better, could you please describe your primary symptoms in detail?",
+          "timestamp": 1771473507357
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-19T09:28:27.714374"
+    },
+    {
+      "id": "32302ff2-5d37-489e-9edd-601f522ed7cc",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1771473485590
+        },
+        {
+          "id": "1771473505432",
+          "role": "user",
+          "content": "Age: 21 and Sex: Male",
+          "timestamp": 1771473505432
+        },
+        {
+          "id": "1771473507358",
+          "role": "assistant",
+          "content": "Thank you for providing your age and biological sex. To help me understand your situation better, could you please describe your primary symptoms in detail?",
+          "timestamp": 1771473507357
+        },
+        {
+          "id": "1771473523951",
+          "role": "user",
+          "content": "Feeling itchy",
+          "timestamp": 1771473523951
+        },
+        {
+          "id": "1771473526575",
+          "role": "assistant",
+          "content": "Thank you. To help me understand the itching better, could you please tell me where on your body you are experiencing this itching, and if there are any visible changes to your skin in those areas, such as a rash, redness, or bumps?",
+          "timestamp": 1771473526575
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-19T09:28:46.948569"
+    },
+    {
+      "id": "4f638232-ce3b-44dd-a8ba-95cb6c488e72",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! Welcome back. I have your profile: Male, age 21.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\nWhat health concerns can I help you with today?",
+          "timestamp": 1771473582897
+        },
+        {
+          "id": "1771473588688",
+          "role": "user",
+          "content": "I got fever",
+          "timestamp": 1771473588688
+        },
+        {
+          "id": "1771473591366",
+          "role": "assistant",
+          "content": "Thank you for letting me know. To help me understand better, could you please tell me what your temperature is and when you first noticed the fever?",
+          "timestamp": 1771473591365
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-19T09:29:51.686348"
+    },
+    {
+      "id": "1b96b2ad-56fc-4664-a0d2-62b5cf82101b",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! Welcome back. I have your profile: Male, age 21.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\nWhat health concerns can I help you with today?",
+          "timestamp": 1771473582897
+        },
+        {
+          "id": "1771473588688",
+          "role": "user",
+          "content": "I got fever",
+          "timestamp": 1771473588688
+        },
+        {
+          "id": "1771473591366",
+          "role": "assistant",
+          "content": "Thank you for letting me know. To help me understand better, could you please tell me what your temperature is and when you first noticed the fever?",
+          "timestamp": 1771473591365
+        },
+        {
+          "id": "1771473612031",
+          "role": "user",
+          "content": "2 days ago, temperature will be around 100 ",
+          "timestamp": 1771473612031
+        },
+        {
+          "id": "1771473613296",
+          "role": "assistant",
+          "content": "Thank you. So, the fever started two days ago and is around 100°F.\n\nBesides the fever, are you experiencing any other symptoms, such as body aches, headache, cough, or sore throat? Please describe any additional symptoms you may have.",
+          "timestamp": 1771473613295
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-19T09:30:13.652315"
+    },
+    {
+      "id": "c2d68c83-9986-478e-8a85-305718afd71e",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! Welcome back. I have your profile: Male, age 21.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\nWhat health concerns can I help you with today?",
+          "timestamp": 1771473582897
+        },
+        {
+          "id": "1771473588688",
+          "role": "user",
+          "content": "I got fever",
+          "timestamp": 1771473588688
+        },
+        {
+          "id": "1771473591366",
+          "role": "assistant",
+          "content": "Thank you for letting me know. To help me understand better, could you please tell me what your temperature is and when you first noticed the fever?",
+          "timestamp": 1771473591365
+        },
+        {
+          "id": "1771473612031",
+          "role": "user",
+          "content": "2 days ago, temperature will be around 100 ",
+          "timestamp": 1771473612031
+        },
+        {
+          "id": "1771473613296",
+          "role": "assistant",
+          "content": "Thank you. So, the fever started two days ago and is around 100°F.\n\nBesides the fever, are you experiencing any other symptoms, such as body aches, headache, cough, or sore throat? Please describe any additional symptoms you may have.",
+          "timestamp": 1771473613295
+        },
+        {
+          "id": "1771473656777",
+          "role": "user",
+          "content": "I feel a bit headache",
+          "timestamp": 1771473656777
+        },
+        {
+          "id": "1771473659357",
+          "role": "assistant",
+          "content": "Thank you for sharing that you have a headache.\n\nCould you please describe your headache? For example, where is the pain located (e.g., forehead, temples, back of head), what does it feel like (e.g., throbbing, dull, sharp), and how severe would you rate it on a scale of 1 to 10, with 1 being very mild and 10 being the worst pain imaginable?",
+          "timestamp": 1771473659356
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-19T09:30:59.705494"
+    },
+    {
+      "id": "90fd70ed-ff33-46f8-9619-7d074db3dfa0",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! Welcome back. I have your profile: Male, age 21.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (such as 911 in the US or 112 in many other regions) immediately.\n\nWhat health concerns can I help you with today?",
+          "timestamp": 1771473582897
+        },
+        {
+          "id": "1771473588688",
+          "role": "user",
+          "content": "I got fever",
+          "timestamp": 1771473588688
+        },
+        {
+          "id": "1771473591366",
+          "role": "assistant",
+          "content": "Thank you for letting me know. To help me understand better, could you please tell me what your temperature is and when you first noticed the fever?",
+          "timestamp": 1771473591365
+        },
+        {
+          "id": "1771473612031",
+          "role": "user",
+          "content": "2 days ago, temperature will be around 100 ",
+          "timestamp": 1771473612031
+        },
+        {
+          "id": "1771473613296",
+          "role": "assistant",
+          "content": "Thank you. So, the fever started two days ago and is around 100°F.\n\nBesides the fever, are you experiencing any other symptoms, such as body aches, headache, cough, or sore throat? Please describe any additional symptoms you may have.",
+          "timestamp": 1771473613295
+        },
+        {
+          "id": "1771473656777",
+          "role": "user",
+          "content": "I feel a bit headache",
+          "timestamp": 1771473656777
+        },
+        {
+          "id": "1771473659357",
+          "role": "assistant",
+          "content": "Thank you for sharing that you have a headache.\n\nCould you please describe your headache? For example, where is the pain located (e.g., forehead, temples, back of head), what does it feel like (e.g., throbbing, dull, sharp), and how severe would you rate it on a scale of 1 to 10, with 1 being very mild and 10 being the worst pain imaginable?",
+          "timestamp": 1771473659356
+        },
+        {
+          "id": "1771473678501",
+          "role": "user",
+          "content": "back of head, scale 7",
+          "timestamp": 1771473678501
+        },
+        {
+          "id": "1771473680509",
+          "role": "assistant",
+          "content": "Thank you for providing those details. The headache is located at the back of your head and you rate it as a 7 out of 10.\n\nTo ensure I have a complete picture, could you please tell me your age and biological sex?",
+          "timestamp": 1771473680508
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-02-19T09:31:20.867470"
+    }
+  ],
+  "d7694842-4bc2-420f-9baa-196029e192a3": [
+    {
+      "id": "bbb2b370-0793-48b9-ada3-179c22cbcfa7",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (108) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1773070891321
+        },
+        {
+          "id": "1773070903110",
+          "role": "user",
+          "content": "Hi",
+          "timestamp": 1773070903111
+        },
+        {
+          "id": "1773070905123",
+          "role": "assistant",
+          "content": "Hello! Thank you for reaching out to HealthAssist AI. To help me understand your situation better, could you please tell me what symptoms you are experiencing today?",
+          "timestamp": 1773070905122
+        },
+        {
+          "id": "1773070934245",
+          "role": "user",
+          "content": "I am not feeling good having mind disturbed ",
+          "timestamp": 1773070934245
+        },
+        {
+          "id": "1773070936150",
+          "role": "assistant",
+          "content": "I understand you're not feeling well and your mind feels disturbed. Could you please describe what \"mind disturbed\" feels like for you? For example, are you experiencing any specific thoughts, feelings, or physical sensations?",
+          "timestamp": 1773070936149
+        },
+        {
+          "id": "1773070954250",
+          "role": "user",
+          "content": "headache ",
+          "timestamp": 1773070954250
+        },
+        {
+          "id": "1773070956211",
+          "role": "assistant",
+          "content": "Thank you for letting me know. To help me understand your headache better, could you please tell me where on your head you are feeling the pain, and what kind of pain it is? For example, is it throbbing, dull, sharp, or a pressure sensation?",
+          "timestamp": 1773070956210
+        },
+        {
+          "id": "1773070964469",
+          "role": "user",
+          "content": "dull",
+          "timestamp": 1773070964469
+        },
+        {
+          "id": "1773070966768",
+          "role": "assistant",
+          "content": "Thank you. A dull headache can be quite uncomfortable. Could you please tell me where on your head you are experiencing this dull pain? Is it on one side, both sides, the front, back, or all over?",
+          "timestamp": 1773070966767
+        },
+        {
+          "id": "1773070977631",
+          "role": "user",
+          "content": "back",
+          "timestamp": 1773070977631
+        },
+        {
+          "id": "1773070979363",
+          "role": "assistant",
+          "content": "Thank you for clarifying. So, you're experiencing a dull headache at the back of your head.\n\nHow long has this headache been present? When did it start?",
+          "timestamp": 1773070979362
+        },
+        {
+          "id": "1773070986422",
+          "role": "user",
+          "content": "2 days",
+          "timestamp": 1773070986422
+        },
+        {
+          "id": "1773070988729",
+          "role": "assistant",
+          "content": "Thank you for letting me know the headache has been present for two days.\n\nOn a scale of 1 to 10, with 1 being very mild and 10 being the worst pain imaginable, how would you rate the severity of this dull headache? Also, how is it impacting your daily activities?",
+          "timestamp": 1773070988728
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-03-09T21:13:09.060599"
+    },
+    {
+      "id": "22318c33-33a4-424b-b0ba-7ffceda7f45f",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (108) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1773071022592
+        },
+        {
+          "id": "1773071029719",
+          "role": "user",
+          "content": "Hello",
+          "timestamp": 1773071029719
+        },
+        {
+          "id": "1773071031180",
+          "role": "assistant",
+          "content": "Hello there. Thank you for reaching out to HealthAssist AI.\n\nTo help me understand your situation better, could you please tell me what symptoms or concerns you are experiencing today?",
+          "timestamp": 1773071031179
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-03-09T21:13:51.555497"
+    },
+    {
+      "id": "d5bf380a-25e3-4e0e-afed-61af7b771668",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (108) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1773071714875
+        },
+        {
+          "id": "1773071729981",
+          "role": "user",
+          "content": "my age is 20 and sex is male",
+          "timestamp": 1773071729981
+        },
+        {
+          "id": "1773071731816",
+          "role": "assistant",
+          "content": "Thank you for providing your age and biological sex.\n\nCould you please describe your primary symptoms in detail? What brings you in today?",
+          "timestamp": 1773071731815
+        },
+        {
+          "id": "1773071751346",
+          "role": "user",
+          "content": "Severe headache in my back",
+          "timestamp": 1773071751346
+        },
+        {
+          "id": "1773071754858",
+          "role": "assistant",
+          "content": "Thank you for sharing that you are experiencing a severe headache in your back.\n\nCould you please describe the exact location of the headache more precisely? For example, is it at the base of your skull, in your neck, or another area? Also, can you describe the type of pain you're feeling (e.g., throbbing, sharp, dull, constant, intermittent)?",
+          "timestamp": 1773071754857
+        },
+        {
+          "id": "1773071796014",
+          "role": "user",
+          "content": "Severe headache in my back not feeling good",
+          "timestamp": 1773071796014
+        },
+        {
+          "id": "1773071798070",
+          "role": "assistant",
+          "content": "I understand you're not feeling well due to the severe headache.\n\nCould you please describe the type of pain you're experiencing? Is it a throbbing pain, a sharp pain, a dull ache, or something else?",
+          "timestamp": 1773071798069
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-03-09T21:26:38.413909"
+    },
+    {
+      "id": "936363e7-d459-4c5c-ae0c-2ae6faf1bcd3",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! Welcome back. I have your profile: Male, age 20.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (108) immediately.\n\n**🌐 You can talk to me in any language — Telugu, Hindi, Tamil, Kannada, English, or any other.**\n\nWhat health concerns can I help you with today?",
+          "timestamp": 1773072292142
+        },
+        {
+          "id": "1773072300071",
+          "role": "user",
+          "content": "Hey",
+          "timestamp": 1773072300071
+        },
+        {
+          "id": "1773072302208",
+          "role": "assistant",
+          "content": "Hello! I'm here to help you. To start, please tell me, what brings you in today?",
+          "timestamp": 1773072302207
+        },
+        {
+          "id": "1773072317365",
+          "role": "user",
+          "content": "Hey How are you",
+          "timestamp": 1773072317365
+        },
+        {
+          "id": "1773072319504",
+          "role": "assistant",
+          "content": "Hello! I am here to assist you. To help me understand how I can best support you, could you please tell me what symptoms you are experiencing today?",
+          "timestamp": 1773072319503
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-03-09T21:35:19.838101"
+    }
+  ],
+  "db31950d-98db-496e-8dac-fc297bc72f68": [
+    {
+      "id": "235a486f-c42b-4bd5-9437-6479f64a8cf4",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (108) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\n**🌐 You can talk to me in any language — Telugu, Hindi, Tamil, Kannada, English, or any other. I will respond in your language.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1790875933335
+        },
+        {
+          "id": "1790875953597",
+          "role": "user",
+          "content": "im suffering for fever",
+          "timestamp": 1790875953597
+        },
+        {
+          "id": "1790875956233",
+          "role": "assistant",
+          "content": "I'm sorry to hear you're not feeling well. To help me understand your situation better, could you please tell me what your temperature is, and if you are experiencing any other symptoms along with the fever, such as body aches, chills, or a cough?",
+          "timestamp": 1790875956232
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-10-01T23:02:36.243870"
+    },
+    {
+      "id": "de451b8d-13ef-446e-98f0-d2c68f69c80e",
+      "message": [
+        {
+          "id": "initial-welcome",
+          "role": "assistant",
+          "content": "Hello! I am HealthAssist AI, your advanced medical health assistant. I am here to provide you with preliminary health guidance and support.\n\nPlease keep in mind that **I am not a doctor.** I cannot provide a definitive diagnosis or prescribe medications. If you are currently experiencing a medical emergency—such as chest pain, difficulty breathing, symptoms of a stroke, or severe bleeding—please stop and call emergency services (108) immediately.\n\n**If you have a skin concern, you can upload a photo for my analysis.**\n\n**🌐 You can talk to me in any language — Telugu, Hindi, Tamil, Kannada, English, or any other. I will respond in your language.**\n\nTo help me understand your situation better, I have a few questions for you. Let's start with the basics:\n\n**Could you please tell me your age and biological sex?**",
+          "timestamp": 1790876023769
+        },
+        {
+          "id": "1790876036321",
+          "role": "user",
+          "content": "22",
+          "timestamp": 1790876036321
+        },
+        {
+          "id": "1790876037879",
+          "role": "assistant",
+          "content": "Thank you. To help me understand your health picture better, could you please tell me your biological sex?",
+          "timestamp": 1790876037878
+        },
+        {
+          "id": "1790876049419",
+          "role": "user",
+          "content": "male",
+          "timestamp": 1790876049419
+        },
+        {
+          "id": "1790876050712",
+          "role": "assistant",
+          "content": "Thank you. Now, could you please describe your primary symptoms in detail? For example, where are you experiencing discomfort, what does it feel like, and have you noticed any visible changes?",
+          "timestamp": 1790876050711
+        }
+      ],
+      "chat_type": "normal",
+      "timestamp": "2026-10-01T23:04:10.744423"
+    }
+  ]
+}

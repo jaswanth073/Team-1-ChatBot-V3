@@ -1,0 +1,29 @@
+#First powershell:
+npm install (Only Once / if no node modules exist)
+npm run dev (Every time to start frontend)
+
+#Second powershell
+cd backend (navigates backend folder)
+python -m venv venv (Only once / If not exist)
+venv/Scripts/activate (Every time to activate virtual environtment)
+pip install tensorflow==2.15.0 flask==3.0.0 flask-cors==4.0.0 numpy==1.24.3 Pillow==10.1.0 (Only once)
+pip install keras==3.0.5 --no-deps (Only once)
+pip install dm-tree (Only once)
+pip install rich (Only once)
+
+python app.py (Every time)
+
+Note:
+All commands marked "Only once" should run without any errors during the initial setup.
+After that, you only need to start the frontend and backend servers.
+
+-------- Daily Execution ------------
+
+Once everything works correctly, you only need to run:
+
+npm run dev (For frontend)
+
+For backend:
+cd backend
+venv/Scripts/activate
+python app.py

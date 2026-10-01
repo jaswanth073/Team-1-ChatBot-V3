@@ -1,0 +1,9 @@
+
+{
+  "name": "HealthAssist AI",
+  "description": "An advanced AI-powered Medical Health Assistant providing preliminary health guidance and symptom assessment with a clean, medical-grade interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
